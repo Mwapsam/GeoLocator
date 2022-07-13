@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # GeoLocator Web App
 
 >This website demonstrates how to implement Google Maps API with Ruby on Rails and Stimulus JS. It shows how we can Build dynamic, interactive, deeply customized maps, location, and geospatial experiences for Ruby on Rails web apps.
